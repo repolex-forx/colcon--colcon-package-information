@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/colcon/colcon-package-information/commit/df35edd9a88f7edafc391be30277654ffa6dced0",
       "git:hexsha": "df35edd9a88f7edafc391be30277654ffa6dced0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.4.1"
     },
     {
